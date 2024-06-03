@@ -1,5 +1,5 @@
 # miniCPU
-<img width="1264" alt="Screenshot 2024-04-11 at 9 46 07 PM" src="https://github.com/kayvandharsee/Mini-Mips_CPU_Project/assets/135669229/379f7eba-d1e3-4426-9929-b32790412229">
+<img width="1264" alt="Screenshot 2024-04-11 at 9 46 07 PM" src="https://github.com/kayvandharsee/miniCPU/assets/135669229/794f8634-8a21-46a5-8e2f-4e07b5420236">
 
 ### Overview
 This repository contains my Mini-MIPS CPU project for the COMP 273 course at McGill University. The goal of this project is to design and implement a simplified version of a MIPS CPU using Logisim Evolution. My Mini-MIPS executes only one instruction per CPU execution cycle, simplifying the architecture while retaining the essence of the MIPS pipeline CPU. This project was undertaken by a team of 2, adhering to the guidelines specified for such teams.
